@@ -49,11 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Assembly     13 mins               ░░░░░░░░█████████████████   31.71 %
-Markdown     11 mins               ░░░░░░░██████████████████   27.31 %
-TypeScript   8 mins                ░░░░░████████████████████   19.97 %
-HTML         5 mins                ░░░██████████████████████   13.30 %
-YAML         1 min                 ░████████████████████████   03.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
